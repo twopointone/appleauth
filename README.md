@@ -8,7 +8,7 @@ Python library to implement Sign In with Apple in your Django backend.
 - [🍎 Apple docs](#-apple-docs)
 - [📝 Configuration](#-configuration)
 - [🚀 Usage](#-usage)
-- [🤖 Endpoints](#endpoints)
+- [🤖 Endpoints](#-endpoints)
 - [📜 Code Of Conduct](#code-of-conduct)
 
 ### 💾 Installation
