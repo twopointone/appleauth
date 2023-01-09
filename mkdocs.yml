@@ -1,0 +1,17 @@
+site_name: Apple Auth
+
+theme:
+  name: material
+
+nav:
+- Home: index.md
+- REST Endpoints: 'endpoints.md'
+- Changelog: changelog.md
+
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - pymdownx.superfences:
+      preserve_tabs: true
+  - pymdownx.inlinehilite
