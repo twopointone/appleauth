@@ -128,7 +128,7 @@ urlpatterns = [...] + default_router.urls
         - Verifies an ID Token issued by Apple's authorization server.
         - Fetch user details from decoded token.
 
-**NOTE:** This documentation changes frequently, checkout the [changelog](changelog.md) for detailed breaking changes and features added.
+**NOTE:** This documentation changes frequently, checkout the [changelog](https://github.com/PrimedigitalGlobal/appleauth/blob/main/docs/changelog.md) for detailed breaking changes and features added.
 
 ### Code of Conduct
 
