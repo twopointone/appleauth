@@ -132,4 +132,4 @@ urlpatterns = [...] + default_router.urls
 
 ### Code of Conduct
 
-In order to foster a kind, inclusive, and harassment-free community, we have a code of conduct, which can be found [here](CODE_OF_CONDUCT.md). We ask you to treat everyone as a smart human programmer that shares an interest in Python and Apple Pass Generator with you.
+In order to foster a kind, inclusive, and harassment-free community, we have a code of conduct, which can be found [here](CODE_OF_CONDUCT.md). We ask you to treat everyone as a smart human programmer that shares an interest in Python and Apple Auth with you.
